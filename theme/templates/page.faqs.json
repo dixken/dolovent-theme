@@ -1,0 +1,208 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 8
+      }
+    },
+    "1655746506fe48febc": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1655746506e77eb594-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What does Dolovent™ butterbur do?",
+            "icon": "none",
+            "row_content": "<p>Dolovent supports normal brain energy levels* by helping to maintain normal levels of magnesium, vitamin B2, coenzyme Q10, and other essential vitamins, minerals and trace elements--all targeted at stabilizing cellular and brain energy and overall health. Dolovent does this by delivering the clinical strength of these micronutrients needed to support normal levels of cellular and brain energy.<\/p>",
+            "page": ""
+          }
+        },
+        "1655746506e77eb594-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Dolovent™ safe?",
+            "icon": "none",
+            "row_content": "<p>The Dolovent formulation has been recommended by European physicians for years and used by thousands of people. No serious side effects have been reported. Some people taking Dolovent notice that Vitamin B2 may cause urine to turn bright yellow or may experience mild bloating and loose stools due to magnesium. Dolovent is manufactured to the highest standards of quality and purity. It should not, however, be used with other products that contain magnesium or vitamin B2.<\/p>",
+            "page": ""
+          }
+        },
+        "1655746506e77eb594-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Schould I worry about drug interactions?",
+            "icon": "none",
+            "row_content": "<p>Dolovent has not been shown to cause any adverse drug interactions. This dietary supplement can be taken safely along with prescription migraine medications (such as triptans and beta blockers). However, to optimize absorption of Dolovent, the capsules should be taken two hours either before or after drugs with the following active ingredients: tetracyclines, ferrous (iron) substances, sodium fluoride, isoniazid, cholorpromaxine and digoxin.<\/p>",
+            "page": ""
+          }
+        },
+        "ff0a5343-0d06-4e5a-b7f3-e919947509ab": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How soon can Dolovent™ make a difference?",
+            "icon": "none",
+            "row_content": "<p>Though normal levels of magnesium, B2 and CoQ10 may be restored in as little as a week, Dolovent is most effective taken regularly over at least three to four months.<\/p>",
+            "page": ""
+          }
+        },
+        "1e4550a6-8af7-4471-8217-c1f622b846e4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I need my doctor's approval to take Dolovent™?",
+            "icon": "none",
+            "row_content": "<p>Because Dolovent is a dietary supplement, you don't need a prescription. However, it is always a good idea to check with your doctor when you begin taking any supplement. It's interesting to note that in Europe, where natural supplements are considered part of mainstream medicine, the Dolovent formulation is often recommended by doctors. Here in the US, a growing number of doctors are seeing results by using acute\/prescription medications followed by a regimen of dietary supplements, such as Dolovent.<\/p>",
+            "page": ""
+          }
+        },
+        "728ebbd3-6de9-44f0-917f-48a41b3f3fdf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How is Dolovent™ taken?",
+            "icon": "none",
+            "row_content": "<p>Dolovent capsules are taken by mouth: Twice daily, 1-2 capsules morning and evening, with or after a meal.<\/p>",
+            "page": ""
+          }
+        },
+        "609ce959-fa49-4c52-82dc-fa9363f8079e": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Schould I discontinue if Dolovent™ I'm having surgery?",
+            "icon": "none",
+            "row_content": "<p>You should always check with your doctor. However, Dolovent does not affect blood clotting or any other factor that could have an impact on surgery.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1655746506e77eb594-0",
+        "1655746506e77eb594-1",
+        "1655746506e77eb594-2",
+        "ff0a5343-0d06-4e5a-b7f3-e919947509ab",
+        "1e4550a6-8af7-4471-8217-c1f622b846e4",
+        "728ebbd3-6de9-44f0-917f-48a41b3f3fdf",
+        "609ce959-fa49-4c52-82dc-fa9363f8079e"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "1655734718fb82c85c": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "accent-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "83266bb6-4c50-49b3-b980-e9049561180f": {
+      "type": "newsletter",
+      "blocks": {
+        "template--14647498047569__83266bb6-4c50-49b3-b980-e9049561180f-168288373203ad8053-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our Newsletter.",
+            "heading_size": "h1"
+          }
+        },
+        "template--14647498047569__83266bb6-4c50-49b3-b980-e9049561180f-168288373203ad8053-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h3>Get $20 OFF your first order and be the first to receive exclusive offers and health news!<\/h3>"
+          }
+        },
+        "template--14647498047569__83266bb6-4c50-49b3-b980-e9049561180f-168288373203ad8053-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--14647498047569__83266bb6-4c50-49b3-b980-e9049561180f-168288373203ad8053-0",
+        "template--14647498047569__83266bb6-4c50-49b3-b980-e9049561180f-168288373203ad8053-1",
+        "template--14647498047569__83266bb6-4c50-49b3-b980-e9049561180f-168288373203ad8053-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1655739482dcdde129": {
+      "type": "rich-text",
+      "blocks": {
+        "16557394822681776c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have questions? Call our Product Support Specialists.<\/p>"
+          }
+        },
+        "01bf8ca5-5cbc-494e-9e40-e0d688e6507c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><a href=\"tel:8883011084\">(888) 301-1084<\/a><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16557394822681776c-1",
+        "01bf8ca5-5cbc-494e-9e40-e0d688e6507c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "1655803548c2090e68": {
+      "type": "rich-text",
+      "blocks": {
+        "1655803547a905ce2a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>ALL PRODUCTS PROUDLY MADE IN GERMANY<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "1655803547a905ce2a-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1655746506fe48febc",
+    "1655734718fb82c85c",
+    "83266bb6-4c50-49b3-b980-e9049561180f",
+    "1655739482dcdde129",
+    "1655803548c2090e68"
+  ]
+}

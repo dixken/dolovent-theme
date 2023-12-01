@@ -1,0 +1,138 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "medium"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "title",
+        "share",
+        "content"
+      ],
+      "settings": {
+      }
+    },
+    "8d3fadba-ebc1-4205-811c-520044253c64": {
+      "type": "rich-text",
+      "blocks": {
+        "d94e77c0-9d28-4841-adf4-c71db762e739": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p>Petadolex is the #1 butterbur brand offering a safe, easy-to-digest dietary supplement for migraine sufferers. Petadolex is the only brand manufactured using a patented purification and toxin removal process and is certified PA-free.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "d94e77c0-9d28-4841-adf4-c71db762e739"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 4,
+        "padding_bottom": 24
+      }
+    },
+    "d3b66150-7f4c-4766-a6ff-853626cf96ba": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14647497490513__d3b66150-7f4c-4766-a6ff-853626cf96ba-1670585703563168d8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>You've Suffered Long Enough. <\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--14647497490513__d3b66150-7f4c-4766-a6ff-853626cf96ba-1670585703563168d8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy now",
+            "button_link": "shopify:\/\/products\/75-single-order",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14647497490513__d3b66150-7f4c-4766-a6ff-853626cf96ba-1670585703563168d8-0",
+        "template--14647497490513__d3b66150-7f4c-4766-a6ff-853626cf96ba-1670585703563168d8-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "8d3fadba-ebc1-4205-811c-520044253c64",
+    "d3b66150-7f4c-4766-a6ff-853626cf96ba",
+    "newsletter"
+  ]
+}

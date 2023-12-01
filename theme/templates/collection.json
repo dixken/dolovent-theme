@@ -1,0 +1,303 @@
+{
+  "sections": {
+    "16563308102bce5a4a": {
+      "type": "rich-text",
+      "blocks": {
+        "1656330810309fb408-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Simplify Life<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1656330810309fb408-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Save 17% on today’s order and all future orders by choosing our Autoship Program!<\/strong><\/p>"
+          }
+        },
+        "10ab714c-26c9-456a-b59f-25e85651ef4a": {
+          "type": "button",
+          "settings": {
+            "button_label": "Subscribe now",
+            "button_link": "shopify:\/\/products\/subscription-75mg-for-adults",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1656330810309fb408-0",
+        "1656330810309fb408-1",
+        "10ab714c-26c9-456a-b59f-25e85651ef4a"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "16563328118fe40b0f": {
+      "type": "featured-product",
+      "blocks": {
+        "16563328100b939f22-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "16563328100b939f22-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "16563328100b939f22-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16563328100b939f22-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16563328100b939f22-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16563328100b939f22-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16563328100b939f22-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16563328100b939f22-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16563328100b939f22-0",
+        "16563328100b939f22-1",
+        "16563328100b939f22-2",
+        "16563328100b939f22-3",
+        "16563328100b939f22-4",
+        "16563328100b939f22-5",
+        "16563328100b939f22-6",
+        "16563328100b939f22-7"
+      ],
+      "settings": {
+        "product": "75-single-order",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165633312045480f70": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "165633312015b13e7f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>ONLY PETADOLEX® BUTTERBUR EXTRACT IS GUARANTEED*:<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165633312015b13e7f-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "1656333062a0526249": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "16563330629e7f33e2-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon_7.png",
+            "title": "",
+            "text": "<p>Pure: Petadoex’s doctor preferred formulation is at least 15% Petasin herbal extract with zero detectable pyrrolizidine alkaloids that can damage the liver - it’s PA-free! (detection limit 0.035 ppm)<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16563330629e7f33e2-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon_3_83a33674-6a01-457a-949f-7a7a818d4cd6.png",
+            "title": "",
+            "text": "<p>The only butterbur extract used in medical research.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16563330629e7f33e2-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon_6.png",
+            "title": "",
+            "text": "<p>Milk & Lactose Free<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fd799986-6a57-45c6-bb2a-354bf6f94aac": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon_5.png",
+            "title": "",
+            "text": "<p>Gluten & Wheat Free<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "9679403b-116e-4abe-a639-b42f7da2655e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon_2_34535ab7-4590-40e2-b178-08eebd8dd3d2.png",
+            "title": "",
+            "text": "<p>No Artificial flavors sweeteners, colors or preservatives<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8a8462fe-820d-4044-920f-55d4f598222b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon_8.png",
+            "title": "",
+            "text": "<p>Vegetarian Capsule<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16563330629e7f33e2-0",
+        "16563330629e7f33e2-1",
+        "16563330629e7f33e2-2",
+        "fd799986-6a57-45c6-bb2a-354bf6f94aac",
+        "9679403b-116e-4abe-a639-b42f7da2655e",
+        "8a8462fe-820d-4044-920f-55d4f598222b"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "165632661038e4f9d1": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "You suffered long enough. Try Petadolex today.",
+        "heading_size": "h2",
+        "color_scheme": "accent-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "16563266077629c94a": {
+      "type": "rich-text",
+      "blocks": {
+        "1656326607fb36e6cf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>ALL PRODUCTS PROUDLY MADE IN GERMANY<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "1656326607fb36e6cf-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "16563308102bce5a4a",
+    "16563328118fe40b0f",
+    "165633312045480f70",
+    "1656333062a0526249",
+    "165632661038e4f9d1",
+    "product-grid",
+    "banner",
+    "16563266077629c94a"
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product-one-time-purchase",
+      "blocks": {
+        "2e87f0c5-d784-4ba6-a098-46b2e1e3efb9": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+            "stars_fill_color": "#f28b00",
+            "star_size": 25,
+            "text_align": "flex-start",
+            "product": "petadolex-75",
+            "stars_text_empty": "No reviews"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "69eb8a3c-e408-4b6c-bfa0-031b719b4d14": {
+          "type": "text",
+          "settings": {
+            "text": "[insert product description here]",
+            "text_style": "body"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "499501b4-d668-4f50-85e1-1124d873b740": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "6ae24ce8-eb63-42ae-bef6-020b5fcfbc37": {
+          "type": "shopify:\/\/apps\/bundle-bear-volume-discounts\/blocks\/offer-widget\/8301eac6-7eb6-487c-92f6-ccde92f1db50",
+          "settings": {
+            "product": "petadolex-50"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "2e87f0c5-d784-4ba6-a098-46b2e1e3efb9",
+        "title",
+        "69eb8a3c-e408-4b6c-bfa0-031b719b4d14",
+        "variant_picker",
+        "499501b4-d668-4f50-85e1-1124d873b740",
+        "6ae24ce8-eb63-42ae-bef6-020b5fcfbc37",
+        "buy_buttons",
+        "description",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "gallery_layout": "thumbnail_slider",
+        "media_size": "small",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "35577233-6214-4c00-8d70-ebd0e56b7547": {
+      "type": "image-banner",
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "16563278899fa7cd16": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16563278893b7f178e-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Easy-to-swallow",
+            "icon": "check_mark",
+            "row_content": "<p>The size of the capsules is easy to swallow.<\/p>",
+            "page": ""
+          }
+        },
+        "c0dc8396-396e-4b3e-b5d5-6b1bfcd82f67": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Convenient dosage",
+            "icon": "check_mark",
+            "row_content": "<p><strong>The dosage is convenient for an adult.<\/strong><\/p>",
+            "page": ""
+          }
+        },
+        "ee245249-4d7e-4711-8edf-00b3a790cccd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "One-month supply",
+            "icon": "check_mark",
+            "row_content": "<p><strong>The bottle contains 60 capsules which is a one-month supply.<\/strong><\/p><p><\/p>",
+            "page": ""
+          }
+        },
+        "2f24fc34-6479-4db2-827c-45a2dedb5b32": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "PA-free formulation",
+            "icon": "check_mark",
+            "row_content": "<p>Petadoex’s doctor preferred formulation is at least 15% Petasin herbal extract with zero detectable pyrrolizidine alkaloids that can damage the liver - it’s PA-free! (detection limit 0.035 ppm)<\/p>",
+            "page": ""
+          }
+        },
+        "57f96996-53d2-4fb0-8f9b-b2eb98081188": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Vegetarian Capsules",
+            "icon": "check_mark",
+            "row_content": "<p><strong>The capsules contain no trans-fat, peanuts, eggs, milk, wheat, gluten, tree nuts, fish or shellfish.<\/strong><\/p>",
+            "page": ""
+          }
+        },
+        "439aba7d-21c9-4543-a2ca-e47ce7382632": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Natural additives",
+            "icon": "check_mark",
+            "row_content": "<p><strong>The capsules casing contains small amounts of olive oil, glycerol, gelatin, riboflavin, natural coloring and trace amounts of sorbitol.<\/strong><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16563278893b7f178e-0",
+        "c0dc8396-396e-4b3e-b5d5-6b1bfcd82f67",
+        "ee245249-4d7e-4711-8edf-00b3a790cccd",
+        "2f24fc34-6479-4db2-827c-45a2dedb5b32",
+        "57f96996-53d2-4fb0-8f9b-b2eb98081188",
+        "439aba7d-21c9-4543-a2ca-e47ce7382632"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Your advantages at a glance",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "168146482443e2aa24": {
+      "type": "apps",
+      "blocks": {
+        "c7483d77-faed-4579-9c9c-2f36642108ac": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "c7483d77-faed-4579-9c9c-2f36642108ac"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "rich-text-0": {
+      "type": "rich-text",
+      "blocks": {
+        "3bf767e5-285a-4aef-a169-52eb3c1d64f7": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>ONLY PETADOLEX® BUTTERBUR EXTRACT IS GUARANTEED*:<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "3bf767e5-285a-4aef-a169-52eb3c1d64f7"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>PA-free<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>The only butterbur extract used in medical research.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Milk & Lactose Free<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-3": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Gluten & Wheat Free<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d526b23f-e7fd-4ac3-bbbf-cc080a871ca1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>No Artificial flavors sweeteners, colors or preservatives<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4ff4cb5f-cd1a-43d6-9bda-33f3c74a9c6d": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Vegetarian Capsule<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2",
+        "column-3",
+        "d526b23f-e7fd-4ac3-bbbf-cc080a871ca1",
+        "4ff4cb5f-cd1a-43d6-9bda-33f3c74a9c6d"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "16563288227e2dc50a": {
+      "type": "image-with-text",
+      "blocks": {
+        "42b2bec5-1295-4db3-97aa-55cca6fdd883": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more",
+            "button_link": "https:\/\/www.linpharma.com\/"
+          }
+        },
+        "560fc7d3-fe90-4270-ac20-b1b22b885147": {
+          "type": "heading",
+          "settings": {
+            "heading": "ABOUT LINPHARMA",
+            "heading_size": "h1"
+          }
+        },
+        "1656328822f4d835b0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Linpharma, Inc and their associate affiliates located in Germany provide only science-based patented ingredients and finished products to include unique delivery systems for select health categories for more than half a century. Our science-based ingredients have in-vivo studies that are published in mainstream medical journals throughout the global research community. <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "42b2bec5-1295-4db3-97aa-55cca6fdd883",
+        "560fc7d3-fe90-4270-ac20-b1b22b885147",
+        "1656328822f4d835b0-1"
+      ],
+      "settings": {
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a754676c-ad1c-47f9-828d-3ec438cdba2b": {
+      "type": "newsletter",
+      "blocks": {
+        "template--14836373127249__a754676c-ad1c-47f9-828d-3ec438cdba2b-168288373203ad8053-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our Newsletter.",
+            "heading_size": "h1"
+          }
+        },
+        "template--14836373127249__a754676c-ad1c-47f9-828d-3ec438cdba2b-168288373203ad8053-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h3>Get <strong>$25 OFF<\/strong> your first order and be the first to receive exclusive offers and health news!<\/h3>"
+          }
+        },
+        "template--14836373127249__a754676c-ad1c-47f9-828d-3ec438cdba2b-168288373203ad8053-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--14836373127249__a754676c-ad1c-47f9-828d-3ec438cdba2b-168288373203ad8053-0",
+        "template--14836373127249__a754676c-ad1c-47f9-828d-3ec438cdba2b-168288373203ad8053-1",
+        "template--14836373127249__a754676c-ad1c-47f9-828d-3ec438cdba2b-168288373203ad8053-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "165632733094c9ec62": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "You suffered long enough. Try Petadolex today.",
+        "heading_size": "h2",
+        "color_scheme": "accent-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165632775962aef7bb": {
+      "type": "rich-text",
+      "blocks": {
+        "165632775909ab0134-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>ALL PRODUCTS PROUDLY MADE IN GERMANY<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "165632775909ab0134-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "35577233-6214-4c00-8d70-ebd0e56b7547",
+    "16563278899fa7cd16",
+    "168146482443e2aa24",
+    "rich-text-0",
+    "multicolumn",
+    "product-recommendations",
+    "16563288227e2dc50a",
+    "a754676c-ad1c-47f9-828d-3ec438cdba2b",
+    "165632733094c9ec62",
+    "165632775962aef7bb"
+  ]
+}

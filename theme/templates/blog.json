@@ -1,0 +1,90 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "medium",
+        "show_date": true,
+        "show_author": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "cd7353c5-d0dc-445f-be0a-ac76d2460be6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14647497523281__cd7353c5-d0dc-445f-be0a-ac76d2460be6-16703564296d0a8701-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>You suffered long enough. Try Petadolex today.<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--14647497523281__cd7353c5-d0dc-445f-be0a-ac76d2460be6-16703564296d0a8701-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy now",
+            "button_link": "shopify:\/\/products\/75-single-order",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14647497523281__cd7353c5-d0dc-445f-be0a-ac76d2460be6-16703564296d0a8701-0",
+        "template--14647497523281__cd7353c5-d0dc-445f-be0a-ac76d2460be6-16703564296d0a8701-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our Newsletter.",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h3>Get $25 OFF your first order and be the first to receive exclusive offers and health news!<\/h3>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "cd7353c5-d0dc-445f-be0a-ac76d2460be6",
+    "newsletter"
+  ]
+}

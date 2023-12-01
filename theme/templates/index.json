@@ -1,0 +1,664 @@
+{
+  "sections": {
+    "2c84467c-f7bb-4418-906c-eb99e39a6e43": {
+      "type": "rich-text",
+      "blocks": {
+        "217d2503-a9b5-4091-b38c-f1a33b6d2d5e": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Nutrients for a Healthy Brain<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "a39c1440-5d48-46c2-bbd3-71b4bfc12ac2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dolovent offers you an all-in-one solution which provides your brain with specific vitamins, minerals and antioxidants.<\/p>"
+          }
+        },
+        "05977ff1-c099-4d85-a7b1-5c2e2b6bcc56": {
+          "type": "button",
+          "settings": {
+            "button_label": "Buy now",
+            "button_link": "shopify:\/\/products\/dolovent",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "217d2503-a9b5-4091-b38c-f1a33b6d2d5e",
+        "a39c1440-5d48-46c2-bbd3-71b4bfc12ac2",
+        "05977ff1-c099-4d85-a7b1-5c2e2b6bcc56"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "6aca417b-b463-4922-8ad1-e9c3c06e1f41": {
+      "type": "image-banner-home",
+      "disabled": true,
+      "blocks": {
+        "template--14647497949265__6aca417b-b463-4922-8ad1-e9c3c06e1f41-16814911675badbc5d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nutrients for a Healthy Brain",
+            "heading_size": "h2"
+          }
+        },
+        "template--14647497949265__6aca417b-b463-4922-8ad1-e9c3c06e1f41-16814911675badbc5d-1": {
+          "type": "text",
+          "settings": {
+            "text": "Dolovent offers you an all-in-one solution which provides your brain with specific vitamins, minerals and antioxidants.",
+            "text_style": "body"
+          }
+        },
+        "template--14647497949265__6aca417b-b463-4922-8ad1-e9c3c06e1f41-16814911675badbc5d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy now",
+            "button_link_1": "shopify:\/\/products\/dolovent",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14647497949265__6aca417b-b463-4922-8ad1-e9c3c06e1f41-16814911675badbc5d-0",
+        "template--14647497949265__6aca417b-b463-4922-8ad1-e9c3c06e1f41-16814911675badbc5d-1",
+        "template--14647497949265__6aca417b-b463-4922-8ad1-e9c3c06e1f41-16814911675badbc5d-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "fb48bbde-4e2f-40f8-8835-8ffd2e818474": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/KeyvisualDolvent.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "b1061613-a068-4b24-b2b2-d41054c04aa1": {
+      "type": "image-banner-home",
+      "disabled": true,
+      "blocks": {
+        "1e2f64f3-6772-40b1-bc48-30cb47e77b3b": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nutrients for a Healthy Brain",
+            "heading_size": "h2"
+          }
+        },
+        "91042cb6-c0ee-4907-aba1-aabf9ec3b2cf": {
+          "type": "text",
+          "settings": {
+            "text": "Dolovent offers you an all-in-one solution which provides your brain with specific vitamins, minerals and antioxidants.",
+            "text_style": "body"
+          }
+        },
+        "29330ad0-d849-4cbd-9e50-47447642c4ee": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Buy now",
+            "button_link_1": "shopify:\/\/products\/dolovent",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1e2f64f3-6772-40b1-bc48-30cb47e77b3b",
+        "91042cb6-c0ee-4907-aba1-aabf9ec3b2cf",
+        "29330ad0-d849-4cbd-9e50-47447642c4ee"
+      ],
+      "settings": {
+        "image_bg": "shopify:\/\/shop_images\/curve-bg_e13a56f1-16cf-4e9c-afb5-39e8eea3b05a.svg",
+        "image_fg_tail": "shopify:\/\/shop_images\/curve-negative-white_0199096f-5a96-4daf-ad79-85ea008834c4.svg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "e615f574-d26d-463f-9daa-b26da9f1f00d": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "008c5454-daec-4cc4-970f-2da2f5181b76": {
+      "type": "rich-text",
+      "blocks": {
+        "f607a9f9-9925-4075-9983-bfba66c22f30": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Everything you need for a<br\/>strong and healthy brain!<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "f48ed7e6-77fe-4b2a-b74e-1a3058a5892b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Feed your brain the nutrients it needs to resist stresses. Taken twice daily Dolovent™ makes it easy, combining <strong>magnesium, riboflavin (Vitamin B2) and CoQ10<\/strong> <em>plus <\/em>other key vitamins, antioxidants and minerals critical for brain health.  <\/p>"
+          }
+        },
+        "template--19133199941944__008c5454-daec-4cc4-970f-2da2f5181b76-168535948230073e74-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "What’s in Dolovent and why it matters   ",
+            "button_link": "shopify:\/\/pages\/about",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "f607a9f9-9925-4075-9983-bfba66c22f30",
+        "f48ed7e6-77fe-4b2a-b74e-1a3058a5892b",
+        "template--19133199941944__008c5454-daec-4cc4-970f-2da2f5181b76-168535948230073e74-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "1655754560c48b9cf9": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1655754560925d62db-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE CANADIAN HEADACHE SOCIETY STRONGLY RECOMMENDS BUTTERBUR PETASITES.",
+            "heading_size": "h2"
+          }
+        },
+        "1655754560925d62db-1": {
+          "type": "text",
+          "settings": {
+            "text": "Canadian Headache Society Guideline authors recommend that clinicians offer butterbur 75 mg twice daily to eligible patients. The guidelines add this caution: “Only commercially prepared products in which plant carcinogens and hepatotoxic alkaloids have been removed and which have been standardized to contain a minimum of 15% petasins are recommended. Patients should be cautioned against consuming the plant in any other form. ”",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1655754560925d62db-0",
+        "1655754560925d62db-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "4b793281-ff8a-43e9-8bae-3d5ee6c68b63": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19320095473976__4b793281-ff8a-43e9-8bae-3d5ee6c68b63-16859443438095b018-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IconsDolovent-02.jpg",
+            "title": "strengthens your brain power",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19320095473976__4b793281-ff8a-43e9-8bae-3d5ee6c68b63-16859443438095b018-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IconsDolovent-03.jpg",
+            "title": "packed with clinical levels of selected nutriens",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19320095473976__4b793281-ff8a-43e9-8bae-3d5ee6c68b63-16859443438095b018-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IconsDolovent-04.jpg",
+            "title": "reduces migraines from 6 to 4 days per Month",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e3e2fe75-987e-4290-8e69-be3221b9fa04": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IconsDolovent-05.jpg",
+            "title": "cost-effective",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "19939acd-3f9d-4419-a50a-0f0daa27931c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IconsDolovent-06.jpg",
+            "title": "convenient to take and well-tolerated",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "cd6591e9-ef5e-4c8c-915c-33289375c65e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IconsDolovent-07.jpg",
+            "title": "made in Germany",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19320095473976__4b793281-ff8a-43e9-8bae-3d5ee6c68b63-16859443438095b018-0",
+        "template--19320095473976__4b793281-ff8a-43e9-8bae-3d5ee6c68b63-16859443438095b018-1",
+        "template--19320095473976__4b793281-ff8a-43e9-8bae-3d5ee6c68b63-16859443438095b018-2",
+        "e3e2fe75-987e-4290-8e69-be3221b9fa04",
+        "19939acd-3f9d-4419-a50a-0f0daa27931c",
+        "cd6591e9-ef5e-4c8c-915c-33289375c65e"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ffc0b974-dfd8-4285-ad12-e26d3aaa9996": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "f4eaa281-f47a-456a-852e-018b09ddcd39": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Product.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "4bdbe278-b83b-4da7-947c-3f6f64704e7c": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--19320095473976__4bdbe278-b83b-4da7-947c-3f6f64704e7c-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "150mg Coenzyme Q10",
+            "icon": "check_mark",
+            "row_content": "<p>is needed to activate the energy metablosim<\/p>",
+            "page": ""
+          }
+        },
+        "template--19320095473976__4bdbe278-b83b-4da7-947c-3f6f64704e7c-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "400mg Vitamin B2",
+            "icon": "check_mark",
+            "row_content": "<p>increases the energy metabolism of brain cells<\/p>",
+            "page": ""
+          }
+        },
+        "template--19320095473976__4bdbe278-b83b-4da7-947c-3f6f64704e7c-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "600mg Magnesium",
+            "icon": "check_mark",
+            "row_content": "<p>stabilizes the nervous system, influences messenger substances in the brain<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19320095473976__4bdbe278-b83b-4da7-947c-3f6f64704e7c-collapsible_row-1",
+        "template--19320095473976__4bdbe278-b83b-4da7-947c-3f6f64704e7c-collapsible_row-2",
+        "template--19320095473976__4bdbe278-b83b-4da7-947c-3f6f64704e7c-collapsible_row-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Dolovent is all in one",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "734df143-7024-46b3-ab50-eecf8f50ffff": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "ca252b7a-a733-4c42-8811-45c78681ac57": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IconsDoloventVitamine-02.jpg",
+            "title": "Vitamin B2",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c940e485-5184-4e15-8b07-221f09ed0dbf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IconsDoloventVitamine-03.jpg",
+            "title": "Magnesium",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "54253f03-7e5b-403b-a38b-dd69622c436e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IconsDoloventVitamine-04.jpg",
+            "title": "Coenzyme Q10",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "ca252b7a-a733-4c42-8811-45c78681ac57",
+        "c940e485-5184-4e15-8b07-221f09ed0dbf",
+        "54253f03-7e5b-403b-a38b-dd69622c436e"
+      ],
+      "settings": {
+        "title": "Everything you need for a strong and healthy brain.",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4ae84440-d2e7-4c21-87c8-79aa308c1dca": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Dolovent_Timeline2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "87a9ac2f-90d8-49d1-a39c-02e5e3506abc": {
+      "type": "rich-text",
+      "blocks": {
+        "71e630a9-b354-4548-ba52-110499e8d2ef": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p> <strong>The most complete brain health blend on the market!<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "90094b0b-e50f-44d9-9c8e-efdb490134ab": {
+          "type": "text",
+          "settings": {
+            "text": "<p>High priced supplements don’t always provide the potency necessary to support brain<br\/>health. But Dolovent does: Daily use provides the <em>clinically published levels<\/em> of <strong>magnesium 600mg<\/strong>, plus the clinical levels of <strong>Riboflavin 400mg<\/strong> and <strong>CoQ10 150mg.<\/strong><\/p>"
+          }
+        },
+        "template--14647497949265__87a9ac2f-90d8-49d1-a39c-02e5e3506abc-167058460180faca85-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "The science behind Dolovent",
+            "button_link": "shopify:\/\/pages\/about",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "71e630a9-b354-4548-ba52-110499e8d2ef",
+        "90094b0b-e50f-44d9-9c8e-efdb490134ab",
+        "template--14647497949265__87a9ac2f-90d8-49d1-a39c-02e5e3506abc-167058460180faca85-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "165575276555959647": {
+      "type": "image-with-text",
+      "blocks": {
+        "1655752765b8d707d4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ABOUT LINPHARMA",
+            "heading_size": "h1"
+          }
+        },
+        "1655752765b8d707d4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Linpharma, Inc and their associate affiliates located in Germany provide only science-based patented ingredients and finished products to include unique delivery systems for select health categories for more than half a century. Our science-based ingredients have in-vivo studies that are published in mainstream medical journals throughout the global research community. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "7e7aac47-851d-4801-bf7b-f3e136582465": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more",
+            "button_link": "https:\/\/www.linpharma.com\/"
+          }
+        }
+      },
+      "block_order": [
+        "1655752765b8d707d4-0",
+        "1655752765b8d707d4-1",
+        "7e7aac47-851d-4801-bf7b-f3e136582465"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Linpharma_GIF_animation.gif",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our Newsletter.",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h3>Get $20 OFF your first order and be the first to receive exclusive offers and health news!<\/h3>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "165572847958a340ba": {
+      "type": "rich-text",
+      "blocks": {
+        "1655728479556d553b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>ALL PRODUCTS PROUDLY MADE IN GERMANY<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "1655728479556d553b-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "2c84467c-f7bb-4418-906c-eb99e39a6e43",
+    "6aca417b-b463-4922-8ad1-e9c3c06e1f41",
+    "fb48bbde-4e2f-40f8-8835-8ffd2e818474",
+    "b1061613-a068-4b24-b2b2-d41054c04aa1",
+    "e615f574-d26d-463f-9daa-b26da9f1f00d",
+    "008c5454-daec-4cc4-970f-2da2f5181b76",
+    "1655754560c48b9cf9",
+    "4b793281-ff8a-43e9-8bae-3d5ee6c68b63",
+    "ffc0b974-dfd8-4285-ad12-e26d3aaa9996",
+    "f4eaa281-f47a-456a-852e-018b09ddcd39",
+    "4bdbe278-b83b-4da7-947c-3f6f64704e7c",
+    "734df143-7024-46b3-ab50-eecf8f50ffff",
+    "4ae84440-d2e7-4c21-87c8-79aa308c1dca",
+    "87a9ac2f-90d8-49d1-a39c-02e5e3506abc",
+    "165575276555959647",
+    "newsletter",
+    "165572847958a340ba"
+  ]
+}

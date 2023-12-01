@@ -1,0 +1,348 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 8
+      }
+    },
+    "5ab1abfd-3bfc-4ec9-9f9e-f9d4cdcd1dd8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14647498080337__5ab1abfd-3bfc-4ec9-9f9e-f9d4cdcd1dd8-16705848256320fbe7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Petadolex is the Only Safe Form of Butterbur to Treat Chronic Migraines <\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14647498080337__5ab1abfd-3bfc-4ec9-9f9e-f9d4cdcd1dd8-16705848256320fbe7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For centuries, the butterbur herb has been used for a variety of conditions. During the Middle Ages, for instance, butterbur was sought for plague and fever. In the 17th century, it was used for cough, asthma, and skin wounds. Most recently, medical researchers have studied butterbur as an effective treatment for migraines.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14647498080337__5ab1abfd-3bfc-4ec9-9f9e-f9d4cdcd1dd8-16705848256320fbe7-0",
+        "template--14647498080337__5ab1abfd-3bfc-4ec9-9f9e-f9d4cdcd1dd8-16705848256320fbe7-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "794aaeca-d775-460e-8117-89498e1d2694": {
+      "type": "rich-text",
+      "blocks": {
+        "f47948dc-2fbc-4b7a-b2f0-d2430202c673": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>3 things to know <\/strong><em><strong>before <\/strong><\/em><strong>you buy any butterbur product<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "f47948dc-2fbc-4b7a-b2f0-d2430202c673"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "22f27008-c499-4903-b332-8f6d48df006a": {
+      "type": "rich-text",
+      "blocks": {
+        "00353a6d-885a-48f0-a8d0-2d6305b2b10d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>1. Offbrand butterbur products can contain toxins.<\/strong><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "755a37ca-6379-48e1-ac77-e084959a52ba": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The butterbur herb contains pyrrolizidine alkaloids (PAs). Unless they’re removed, PAs may damage the liver, lungs, blood circulation, and possibly cause cancer. Some butterbur products have been pulled from the market, but even some that remain -- and claim to be PA-free -- are not. Only Petadolex uses a patented process to extract butterbur’s active ingredients (<em>petasins and isopetasins)<\/em> and leave those toxic PAs behind.<\/p>"
+          }
+        },
+        "a4b812ed-77db-4710-a1bf-3997fdd59bc2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>THE TAKEAWAY: <strong>Petadolex® brand butterbur has been shown safe and effective for migraine prevention <\/strong>in numerous published clinical and laboratory studies as well as presented at clinical and academic conferences. These studies are the basis for the Canadian Headache Society recommendation on 75 mg butterbur.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "00353a6d-885a-48f0-a8d0-2d6305b2b10d",
+        "755a37ca-6379-48e1-ac77-e084959a52ba",
+        "a4b812ed-77db-4710-a1bf-3997fdd59bc2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c05f04a4-f1db-4e94-8555-a1343657ad25": {
+      "type": "rich-text",
+      "blocks": {
+        "4de2cb40-5cf0-4fc5-9c26-6e613eeaabc9": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><em><strong>From the Canadian Headache Society guidelines on butterbur:<\/strong><\/em><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "c34e01a6-a568-43bb-b62c-56e417e86f76": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>“We recommend that clinicians offer butterbur 75 mg twice daily to eligible patients for migraine prophylaxis. The magnitude of the benefit may be small, but side effects are minimal.”<\/em><\/p><p><strong>The Guidelines include this caution: <br\/><\/strong><em>“Only commercially prepared products in which plant carcinogens and hepatotoxic alkaloids have been removed and which have been standardized to contain a minimum of 15% petasins are recommended. Patients should be cautioned against consuming the plant in any other form.”<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "4de2cb40-5cf0-4fc5-9c26-6e613eeaabc9",
+        "c34e01a6-a568-43bb-b62c-56e417e86f76"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "cf5a59b9-6369-47cf-8df3-2c895523f59a": {
+      "type": "rich-text",
+      "blocks": {
+        "221fd9f1-aa48-4ca9-8a4a-4aca3bc4b011": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>2. Offbrand butterbur products don’t always contain enough active ingredients to treat & prevent migraines.<\/strong><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "4df91e86-8e37-4e14-ad87-351a30ec3898": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Some manufacturers claim higher amounts of <em>petasins <\/em>and <em>isopetasins <\/em>on the label than are actually present in the product. Some products contain such low levels of butterbur’s active ingredients that the product offers no therapeutic benefit in reducing the frequency and severity of migraines headaches.<\/p>"
+          }
+        },
+        "5d706bf6-5934-48d9-bfea-acf314c360e9": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>THE TAKEAWAY: <\/strong>Petadolex® is guaranteed to contain <em>at least<\/em> 15% petasins and isopetasins. Neurologists recommend Petadolex because it is PA-free <em>and <\/em>offers a standardized, therapeutic-level formulation for migraine prevention.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "221fd9f1-aa48-4ca9-8a4a-4aca3bc4b011",
+        "4df91e86-8e37-4e14-ad87-351a30ec3898",
+        "5d706bf6-5934-48d9-bfea-acf314c360e9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "f34d3590-87a7-468e-b612-2d0fcf9bcee7": {
+      "type": "rich-text",
+      "blocks": {
+        "89921f64-9460-430d-a464-e77832f41f64": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>3. Offbrand Butterbur Products Are Not Effective Chronic Migraine Treatments<\/strong><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "04fa6172-ff92-4b67-88de-51eb7d36a20b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Petadolex is the only brand of butterbur that has been used in research as the best treatment for migraines. Findings have shown good response rates in men and women, children, and older adults. The most recent studies show that butterbur exerts anti-inflammatory activity and is a potent CGRP modulator that desensitizes calcium channel pathways.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "89921f64-9460-430d-a464-e77832f41f64",
+        "04fa6172-ff92-4b67-88de-51eb7d36a20b"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "2398c0a1-8c78-483f-9167-7ea012624011": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14647498080337__2398c0a1-8c78-483f-9167-7ea012624011-1670584774819ccd63-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Backed by decades of research and real-world use",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14647498080337__2398c0a1-8c78-483f-9167-7ea012624011-1670584774819ccd63-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Purified from butterbur’s natural PA toxins by a patented extraction process",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14647498080337__2398c0a1-8c78-483f-9167-7ea012624011-1670584774819ccd63-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Guaranteed to contain at least 15% active ingredients (petasins and isopetasins)",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14647498080337__2398c0a1-8c78-483f-9167-7ea012624011-1670584774819ccd63-0",
+        "template--14647498080337__2398c0a1-8c78-483f-9167-7ea012624011-1670584774819ccd63-1",
+        "template--14647498080337__2398c0a1-8c78-483f-9167-7ea012624011-1670584774819ccd63-2"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "ONLY Petadolex® butterbur is used by researchers as the best treatment for chronic headaches because it’s:",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3ab4c1e2-c06d-4375-b3bb-e77a7cbeb8f2": {
+      "type": "rich-text",
+      "blocks": {
+        "2d6c2e1e-ed6c-44e8-8a24-f1be4cbcd992": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>THE TAKEAWAY: <\/strong>All the scientific studies on butterbur’s impact on treating migraines have used Petadolex. All the benefits cited in these studies apply to Petadolex – but they may <em>not<\/em> apply to other butterbur brands.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "2d6c2e1e-ed6c-44e8-8a24-f1be4cbcd992"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "1655734718fb82c85c": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "accent-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1655739482dcdde129": {
+      "type": "rich-text",
+      "blocks": {
+        "16557394822681776c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have questions? Call our Product Support Specialists.<\/p>"
+          }
+        },
+        "01bf8ca5-5cbc-494e-9e40-e0d688e6507c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><a href=\"tel:8883011084\">(888) 301-1084<\/a><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16557394822681776c-1",
+        "01bf8ca5-5cbc-494e-9e40-e0d688e6507c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "1593234f-dec0-4365-ba49-76410857081a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14647498080337__1593234f-dec0-4365-ba49-76410857081a-16705848256320fbe7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>ALL PRODUCTS PROUDLY MADE IN GERMANY<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--14647498080337__1593234f-dec0-4365-ba49-76410857081a-16705848256320fbe7-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5ab1abfd-3bfc-4ec9-9f9e-f9d4cdcd1dd8",
+    "794aaeca-d775-460e-8117-89498e1d2694",
+    "22f27008-c499-4903-b332-8f6d48df006a",
+    "c05f04a4-f1db-4e94-8555-a1343657ad25",
+    "cf5a59b9-6369-47cf-8df3-2c895523f59a",
+    "f34d3590-87a7-468e-b612-2d0fcf9bcee7",
+    "2398c0a1-8c78-483f-9167-7ea012624011",
+    "3ab4c1e2-c06d-4375-b3bb-e77a7cbeb8f2",
+    "1655734718fb82c85c",
+    "1655739482dcdde129",
+    "1593234f-dec0-4365-ba49-76410857081a"
+  ]
+}

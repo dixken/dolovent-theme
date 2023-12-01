@@ -1,0 +1,604 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 8
+      }
+    },
+    "5ab1abfd-3bfc-4ec9-9f9e-f9d4cdcd1dd8": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--14647498080337__5ab1abfd-3bfc-4ec9-9f9e-f9d4cdcd1dd8-16705848256320fbe7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>PRODUCT INFO AND ACTION<\/h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14647498080337__5ab1abfd-3bfc-4ec9-9f9e-f9d4cdcd1dd8-16705848256320fbe7-0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "6732c708-9b63-455f-8b75-e5787c3e829d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19320095670584__6732c708-9b63-455f-8b75-e5787c3e829d-16867485649d2b2993-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Dolovent™ is a natural dietary supplement that has been well-researched, is very well tolerated, and can be used safely over a long period under the advice of a healthcare provider.<\/strong><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--19320095670584__6732c708-9b63-455f-8b75-e5787c3e829d-16867485649d2b2993-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Discounts & free shipping on very order",
+            "button_link": "shopify:\/\/products\/dolovent",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19320095670584__6732c708-9b63-455f-8b75-e5787c3e829d-16867485649d2b2993-0",
+        "template--19320095670584__6732c708-9b63-455f-8b75-e5787c3e829d-16867485649d2b2993-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "dd82c252-c75c-4ff4-9f62-f160a2f7d07b": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--19320095670584__dd82c252-c75c-4ff4-9f62-f160a2f7d07b-1686207675a82accbe-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Bioflavonoids",
+            "icon": "check_mark",
+            "row_content": "<p>Neuroprotective effects, ability to suppress neuroinflammation.<\/p>",
+            "page": ""
+          }
+        },
+        "template--19320095670584__dd82c252-c75c-4ff4-9f62-f160a2f7d07b-1686207675a82accbe-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Chromium",
+            "icon": "check_mark",
+            "row_content": "<p>Stimulates fatty acid and cholesterol synthesis vital for brain functions.<\/p>",
+            "page": ""
+          }
+        },
+        "template--19320095670584__dd82c252-c75c-4ff4-9f62-f160a2f7d07b-1686207675a82accbe-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Co-enzyme Q10 (CoQ10)",
+            "icon": "check_mark",
+            "row_content": "<p>Potential neuroprotective effects, a co-factor in the electron transport chain and a potent free-radical scavenger in lipid and mitochondrial membranes.<\/p>",
+            "page": ""
+          }
+        },
+        "template--19320095670584__dd82c252-c75c-4ff4-9f62-f160a2f7d07b-1686207675a82accbe-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Copper",
+            "icon": "check_mark",
+            "row_content": "<p>Necessary for brain-specific enzymes that control neurotransmitters <\/p>",
+            "page": ""
+          }
+        },
+        "bc5cce13-55b3-480b-8961-6dacdfbcd448": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Folate (Folic Acid)",
+            "icon": "check_mark",
+            "row_content": "<p>NA<\/p>",
+            "page": ""
+          }
+        },
+        "8d272d34-4461-4940-a9a9-90d22d70942b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Iron",
+            "icon": "check_mark",
+            "row_content": "<p>Vital for neurotransmitter synthesis, myelination of neurons, and mitochondrial function.<\/p>",
+            "page": ""
+          }
+        },
+        "8751be2b-1fc3-4ca8-b6a4-163fad32dbbf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Magnesium",
+            "icon": "check_mark",
+            "row_content": "<p>Essential in nerve transmission and neuromuscular conduction. It also functions in a protective role against excessive nerve stimulation.<\/p>",
+            "page": ""
+          }
+        },
+        "aa8dbb24-b95a-41e9-ad4d-9db537e96c45": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Manganese",
+            "icon": "check_mark",
+            "row_content": "<p>Required for healthy brain development, functions as a cofactor in several enzymes.<\/p>",
+            "page": ""
+          }
+        },
+        "c2cbf3fb-a41e-452f-bdba-050712e67308": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Selenium",
+            "icon": "check_mark",
+            "row_content": "<p>Protects against inflammation, oxidative stress, and endoplasmic reticulum stress.<\/p>",
+            "page": ""
+          }
+        },
+        "58e5c291-aae0-4a8b-a7df-21dc6afabc6c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Vitamin A",
+            "icon": "check_mark",
+            "row_content": "<p>Regulates brain signaling and gene products and modulates neurogenesis, synaptic plasticity. Vitamin C (ascorbate): A vital antioxidant in the brain. Also participates as a co-factor in enzyme reactions.<\/p>",
+            "page": ""
+          }
+        },
+        "4dbf7b88-1723-423f-b9a2-de97a967da34": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Vitamin B1 (thiamine)",
+            "icon": "check_mark",
+            "row_content": "<p>Thiamine-dependent enzymes are critical components of glucose metabolism in the brain.<\/p>",
+            "page": ""
+          }
+        },
+        "8d6af7c7-dd91-4783-87d9-869223f02b81": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Vitamin B2 (Riboflavin)",
+            "icon": "check_mark",
+            "row_content": "<p>Increases energy production and metabolism in mitochondria. Potential to protect against neurotoxicity, neurogenic inflammation, and glutamate excitotoxicity.<\/p>",
+            "page": ""
+          }
+        },
+        "017dbdb6-de3d-4fe3-a7a4-9044b2396d3a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Vitamin B3 (niacin)",
+            "icon": "check_mark",
+            "row_content": "<p>Believed to protect brain cells from stress and injury. Vitamin B6: Helps create neurotransmitters and regulate energy use in the brain.<\/p>",
+            "page": ""
+          }
+        },
+        "42c02158-1428-468c-8f6f-38e73ef0498d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Vitamin B5 (pantothenic acid)",
+            "icon": "check_mark",
+            "row_content": "<p>With 50x more copper in the brain than in plasma, it's critical to neurotransmitter synthesis.<\/p>",
+            "page": ""
+          }
+        },
+        "609fdc9f-5f77-4f0a-8ee7-cbabfe6ad2e2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Vitamin B12",
+            "icon": "check_mark",
+            "row_content": "<p>Vital for the brain and nervous system, it plays a role in mitochondrial energy production. Vitamin B7 (biotin): Biotin plays a key role in glucose metabolism in the brain.<\/p>",
+            "page": ""
+          }
+        },
+        "d3d9fcdb-6388-4c20-b9cc-0776d018d093": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Vitamin D",
+            "icon": "check_mark",
+            "row_content": "<p>Plays a neuroprotective role and regulates many genes important for brain function.<\/p>",
+            "page": ""
+          }
+        },
+        "53c5a910-a6bb-4861-9b0c-cba64d859e66": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Vitamin E",
+            "icon": "check_mark",
+            "row_content": "<p>Supports synaptic plasticity and cognitive function in the hippocampus.<\/p>",
+            "page": ""
+          }
+        },
+        "0b34a702-99b4-4880-bbee-21c8910ad561": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Zinc",
+            "icon": "check_mark",
+            "row_content": "<p>Supports the central nervous system by modulating post-synaptic receptors<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19320095670584__dd82c252-c75c-4ff4-9f62-f160a2f7d07b-1686207675a82accbe-0",
+        "template--19320095670584__dd82c252-c75c-4ff4-9f62-f160a2f7d07b-1686207675a82accbe-1",
+        "template--19320095670584__dd82c252-c75c-4ff4-9f62-f160a2f7d07b-1686207675a82accbe-2",
+        "template--19320095670584__dd82c252-c75c-4ff4-9f62-f160a2f7d07b-1686207675a82accbe-3",
+        "bc5cce13-55b3-480b-8961-6dacdfbcd448",
+        "8d272d34-4461-4940-a9a9-90d22d70942b",
+        "8751be2b-1fc3-4ca8-b6a4-163fad32dbbf",
+        "aa8dbb24-b95a-41e9-ad4d-9db537e96c45",
+        "c2cbf3fb-a41e-452f-bdba-050712e67308",
+        "58e5c291-aae0-4a8b-a7df-21dc6afabc6c",
+        "4dbf7b88-1723-423f-b9a2-de97a967da34",
+        "8d6af7c7-dd91-4783-87d9-869223f02b81",
+        "017dbdb6-de3d-4fe3-a7a4-9044b2396d3a",
+        "42c02158-1428-468c-8f6f-38e73ef0498d",
+        "609fdc9f-5f77-4f0a-8ee7-cbabfe6ad2e2",
+        "d3d9fcdb-6388-4c20-b9cc-0776d018d093",
+        "53c5a910-a6bb-4861-9b0c-cba64d859e66",
+        "0b34a702-99b4-4880-bbee-21c8910ad561"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Nutrients & their Role in Brain Health",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image": "shopify:\/\/shop_images\/07_Dosage.png",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "ff4603b9-2878-4591-9df6-2ec90248a26c": {
+      "type": "rich-text",
+      "blocks": {
+        "5767e8d7-2f4d-4aef-aa74-795da2b0bc20": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Supplementing key nutrients for brain health<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "487b446b-fd1f-4a7b-83ad-7725145e6c82": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>The importance of “brain food”<\/strong><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "b003d4ef-484f-44b6-a956-f74bc692afb2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Fat makes up about 60% of our<br\/>brain. These fatty acids provide fuel for the brain to accomplish marvels like signaling nerve cells at almost 300 miles an hour. What fuels the fatty acids themselves? “Brain food” that contains nutrients that support both brain cells <em>and <\/em>whole-body health.<\/p>"
+          }
+        },
+        "0e83ed5a-11f5-4538-bed0-3786d172ed98": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Taking control<\/strong><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "4d23b843-d288-423f-a9db-3fc8653ad74e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>While we can’t control many factors that affect brain health, we <em>can <\/em>control the nutrients we consume. That starts with making sure we get enough of the vitamins, minerals and antioxidants our brains crave.<\/p><p><strong>Plus, certain people have lower-than-normal levels specifically of magnesium, riboflavin (vitamin B2) and coenzyme Q10that can disrupt the brain's ability to metabolize energy.<\/strong> Supplementing nutrients in the diet can help support normal activity. Dolovent™ provides the high, clinical levels of these and other essential vitamins, minerals and antioxidants needed to support proper levels of energy in the brain.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "5767e8d7-2f4d-4aef-aa74-795da2b0bc20",
+        "487b446b-fd1f-4a7b-83ad-7725145e6c82",
+        "b003d4ef-484f-44b6-a956-f74bc692afb2",
+        "0e83ed5a-11f5-4538-bed0-3786d172ed98",
+        "4d23b843-d288-423f-a9db-3fc8653ad74e"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "801a71c5-aae5-47cc-9305-754185e9a578": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19320095670584__801a71c5-aae5-47cc-9305-754185e9a578-1686233509943d2019-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>A safe, effective option<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--19320095670584__801a71c5-aae5-47cc-9305-754185e9a578-1686233509943d2019-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Dolovent has been recommended by European physicians for years and used by hundreds of thousands of people. No serious side effects have been reported.<\/strong><br\/>Some people taking Dolovent notice that Vitamin B2 may cause urine to turn bright yellow or may experience mild bloating and loose stools due to magnesium. Dolovent is manufactured to the highest<br\/>standards of quality and purity. It should not, however, be used with other products that contain magnesium or vitamin B2.<\/p>"
+          }
+        },
+        "1788627a-749c-4f81-9ab7-5f5c786d5bd1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Backed by years of safety data<\/strong><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "3b734ffd-545b-49e4-a64b-775fba8a5b5f": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Dolovent has not been shown to cause any adverse drug interactions. <\/strong>It can be taken safely along with prescription medications such as triptans and beta blockers. However, to optimize absorption of Dolovent, the capsules should be taken two hours either before or after drugs with the following active ingredients: tetracyclines, ferrous (iron) substances, sodium fluoride, isoniazid, chlorpromazine and digoxin.<\/p>"
+          }
+        },
+        "10dec4ea-1616-4cb8-996b-580d1dfb0040": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dolovent™ is identical in composition, dosage and purity<br\/>to the supplement formula studied by researchers.* The value that Dolovent™ ingredients offer to the brain is well documented. <\/p><ul><li>On the market for years without any serious side effects<\/li><li>Convenient and easy to use<\/li><li>Recommended by doctors<\/li><li>Cost-effective - especially compared to supplements for individual vitamins, minerals and antioxidants<\/li><li>cGMP manufactured and <span style=\"text-decoration:underline\">allergen-free<br\/><\/span><\/li><\/ul><p>  *<a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC4393401\/\"><span style=\"text-decoration:underline\">J Headache Pain.<\/span><\/a> 2015; 16: 32. Published online 2015 Apr 3. doi: <a href=\"https:\/\/dx.doi.org\/10.1186%2Fs10194-015-0516-6\"><span style=\"text-decoration:underline\">10.1186\/s10194-015-0516-6<\/span><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19320095670584__801a71c5-aae5-47cc-9305-754185e9a578-1686233509943d2019-0",
+        "template--19320095670584__801a71c5-aae5-47cc-9305-754185e9a578-1686233509943d2019-1",
+        "1788627a-749c-4f81-9ab7-5f5c786d5bd1",
+        "3b734ffd-545b-49e4-a64b-775fba8a5b5f",
+        "10dec4ea-1616-4cb8-996b-580d1dfb0040"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "c46cfb71-5f3b-4b0c-9df6-30101fb2b9cd": {
+      "type": "rich-text",
+      "blocks": {
+        "b65e7153-e2d2-4aa4-bc8f-1fd7ffedbf12": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>SCIENTIFIC RESEARCH<\/h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "b65e7153-e2d2-4aa4-bc8f-1fd7ffedbf12"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "accent-2",
+        "full_width": false,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "cff3d50b-50e8-4f18-8dc9-350ca2f55614": {
+      "type": "rich-text",
+      "blocks": {
+        "16402c56-c7a8-4e9b-b840-13028d6daade": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3><strong>SELECTED RESEARCH STUDIES<\/strong><\/h3>",
+            "heading_size": "h2"
+          }
+        },
+        "8122b5d1-47ea-4583-a13a-9f29e45526df": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Below are citations for two very readable research articles that summarize the multiple mainstream medical studies that have been conducted on the role of magnesium, Vitamin B2 and Coenzyme Q10 in migraines.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16402c56-c7a8-4e9b-b840-13028d6daade",
+        "8122b5d1-47ea-4583-a13a-9f29e45526df"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "cd39b05f-c40b-459f-b3f7-069a0698204e": {
+      "type": "rich-text",
+      "blocks": {
+        "6b549eee-ab64-4b4e-baa6-968f037d252f": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3><strong>ALTERNATIVE THERAPIES: EVIDENCE BASED EVALUATION IN MIGRAINE<\/strong><\/h3>",
+            "heading_size": "h2"
+          }
+        },
+        "e1879a75-6e11-4c95-ae74-1ced3871aee6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Steward J. Tepper, Marcelo Bigal, Alan Rapoport and Fred Sheft<br\/>Headache Care 2006; 3(2): 57-64<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "6b549eee-ab64-4b4e-baa6-968f037d252f",
+        "e1879a75-6e11-4c95-ae74-1ced3871aee6"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "f3cdc45d-50a7-4b58-a629-c1c5387e9696": {
+      "type": "rich-text",
+      "blocks": {
+        "c62f466b-8032-4a7d-a9f3-7c5c0b68a51c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3><strong>\"NATURAL\" OR ALTERNATIVE MEDICATIONS FOR MIGRAINE PREVENTION<\/strong><\/h3>",
+            "heading_size": "h2"
+          }
+        },
+        "1b017ff6-8a75-4145-a2d1-456e590a3f58": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Case History Submitted by Randolph W. Evans, MD; Expert Opinion Submitted by Frederick R. Taylor, MD<br\/>Headache, V. 46, No. 6, June 2006<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "c62f466b-8032-4a7d-a9f3-7c5c0b68a51c",
+        "1b017ff6-8a75-4145-a2d1-456e590a3f58"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 40
+      }
+    },
+    "1655734718fb82c85c": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "accent-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "07fc35f5-f32c-4591-a5e9-f99308ab79b1": {
+      "type": "newsletter",
+      "blocks": {
+        "template--14647498080337__07fc35f5-f32c-4591-a5e9-f99308ab79b1-168288373203ad8053-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our Newsletter.",
+            "heading_size": "h1"
+          }
+        },
+        "template--14647498080337__07fc35f5-f32c-4591-a5e9-f99308ab79b1-168288373203ad8053-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h3>Get $20 OFF your first order and be the first to receive exclusive offers and health news!<\/h3>"
+          }
+        },
+        "template--14647498080337__07fc35f5-f32c-4591-a5e9-f99308ab79b1-168288373203ad8053-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--14647498080337__07fc35f5-f32c-4591-a5e9-f99308ab79b1-168288373203ad8053-0",
+        "template--14647498080337__07fc35f5-f32c-4591-a5e9-f99308ab79b1-168288373203ad8053-1",
+        "template--14647498080337__07fc35f5-f32c-4591-a5e9-f99308ab79b1-168288373203ad8053-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "1655739482dcdde129": {
+      "type": "rich-text",
+      "blocks": {
+        "16557394822681776c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have questions? Call our Product Support Specialists.<\/p>"
+          }
+        },
+        "01bf8ca5-5cbc-494e-9e40-e0d688e6507c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><a href=\"tel:8883011084\">(888) 301-1084<\/a><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16557394822681776c-1",
+        "01bf8ca5-5cbc-494e-9e40-e0d688e6507c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "1593234f-dec0-4365-ba49-76410857081a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14647498080337__1593234f-dec0-4365-ba49-76410857081a-16705848256320fbe7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>ALL PRODUCTS PROUDLY MADE IN GERMANY<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--14647498080337__1593234f-dec0-4365-ba49-76410857081a-16705848256320fbe7-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5ab1abfd-3bfc-4ec9-9f9e-f9d4cdcd1dd8",
+    "6732c708-9b63-455f-8b75-e5787c3e829d",
+    "dd82c252-c75c-4ff4-9f62-f160a2f7d07b",
+    "ff4603b9-2878-4591-9df6-2ec90248a26c",
+    "801a71c5-aae5-47cc-9305-754185e9a578",
+    "c46cfb71-5f3b-4b0c-9df6-30101fb2b9cd",
+    "cff3d50b-50e8-4f18-8dc9-350ca2f55614",
+    "cd39b05f-c40b-459f-b3f7-069a0698204e",
+    "f3cdc45d-50a7-4b58-a629-c1c5387e9696",
+    "1655734718fb82c85c",
+    "07fc35f5-f32c-4591-a5e9-f99308ab79b1",
+    "1655739482dcdde129",
+    "1593234f-dec0-4365-ba49-76410857081a"
+  ]
+}

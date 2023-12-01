@@ -1,0 +1,439 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 8
+      }
+    },
+    "16557300101a03233a": {
+      "type": "rich-text",
+      "blocks": {
+        "1655730010715c5a61-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Dolovent delivers what diet alone can't<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "1655730010715c5a61-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dolovent is sold in America by Linpharma, Inc. and produced in Germany by Weber + Weber.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1655730010715c5a61-0",
+        "1655730010715c5a61-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "ea8dff28-f064-4d8c-be21-7d0e64a722d9": {
+      "type": "rich-text",
+      "blocks": {
+        "ae71d73a-be53-4497-9bc4-9757d01242e0": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Mainstream medical research has documented that a deficiency in magnesium, vitamin B2 and coenzyme Q10 can disupt healthy blood flow and energy metabolism in the brain.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ae71d73a-be53-4497-9bc4-9757d01242e0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "f0c418bb-b92b-4d94-939e-ba9f316e5a07": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/7_60611fa0-8305-493f-b327-b286746ee5e6.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "0bb6b8a6-8d0d-4694-a89b-4ecd16ad6558": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/9_63181e46-0c04-4e51-aec6-35f47d0d5866.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "bc5c45c6-7eaa-4ede-ab4a-e3c6c5479f3b": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--19320095736120__bc5c45c6-7eaa-4ede-ab4a-e3c6c5479f3b-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Month 1",
+            "icon": "clipboard",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--19320095736120__bc5c45c6-7eaa-4ede-ab4a-e3c6c5479f3b-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Month 2",
+            "icon": "clipboard",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--19320095736120__bc5c45c6-7eaa-4ede-ab4a-e3c6c5479f3b-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Month 3",
+            "icon": "clipboard",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19320095736120__bc5c45c6-7eaa-4ede-ab4a-e3c6c5479f3b-collapsible_row-1",
+        "template--19320095736120__bc5c45c6-7eaa-4ede-ab4a-e3c6c5479f3b-collapsible_row-2",
+        "template--19320095736120__bc5c45c6-7eaa-4ede-ab4a-e3c6c5479f3b-collapsible_row-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1655730491734977b1": {
+      "type": "rich-text",
+      "blocks": {
+        "165573049173f4d2b8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Trust Linpharma for quality, effectiveness and <\/strong><em><strong>plant-based <\/strong><\/em><strong>ingredients<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "165573049173f4d2b8-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 36,
+        "padding_bottom": 20
+      }
+    },
+    "165573063339e32c22": {
+      "type": "rich-text",
+      "blocks": {
+        "1655730633803db687-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h3>Linpharma nutritional and plant-based products include patented delivery systems, ingredients and formulations. They contain <em>only<\/em> science-based ingredients backed by <em>in vivo <\/em>studies conducted throughout the global research community and published in mainstream medical journals. <\/h3>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "1655730633803db687-0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "accent-2",
+        "full_width": false,
+        "padding_top": 8,
+        "padding_bottom": 20
+      }
+    },
+    "165573443070c1d3ef": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "1655734227003a9774": {
+      "type": "rich-text",
+      "blocks": {
+        "1655734227661afe8d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Made to the highest supplement standards<\/strong><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "1655734227661afe8d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dolovent is made in Germany where doctors prescribe supplements the same way they do medications. This is why German supplements meet safety and ingredient-purity standards that far surpass U.S. standards and made-in-America supplements<\/p><ul><li>Allergen-free<\/li><li>No harmful side effects<\/li><li>Backed by respected research and safety data<\/li><li>Long-documented value to users<\/li><li>Verified amounts of ingredients listed on the label<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "1655734227661afe8d-0",
+        "1655734227661afe8d-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "accent-2",
+        "full_width": false,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "1655734543ba4f7eb2": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "1655734718fb82c85c": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "accent-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2373718e-b6a2-41d7-8c5a-d03785ffe339": {
+      "type": "image-banner",
+      "blocks": {
+        "6cf4b8b2-6068-4473-9ba2-fd21a3eab54b": {
+          "type": "text",
+          "settings": {
+            "text": "Correcting this dietary deficiency is achallenge since food alone cannot supply the clinical levels ofthese micronutrients needed to achieve normal brain energy levels. In addition, there are other specificnutrients of benefit to the brain: vitamins, minerals, bioflavonoids andantioxidants. ",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "6cf4b8b2-6068-4473-9ba2-fd21a3eab54b"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/deconstructed-packed-lunch.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "2fc8b650-caf3-4c67-81d3-ca3e0a5b7a8a": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Dolovent_allinone_c5dd1307-0345-4a70-9275-461fecc942f7.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "c9f89619-ff00-4426-b725-c696f57ebcfa": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19320095736120__c9f89619-ff00-4426-b725-c696f57ebcfa-168785030858304184-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Dolovent was formulated to bring these brain nutrients together <\/strong><em><strong>at the clinical levels <\/strong><\/em><strong>necessary to produce results<\/strong><\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--19320095736120__c9f89619-ff00-4426-b725-c696f57ebcfa-168785030858304184-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "What’s in Dolovent – and why it matters  ",
+            "button_link": "shopify:\/\/pages\/about",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19320095736120__c9f89619-ff00-4426-b725-c696f57ebcfa-168785030858304184-0",
+        "template--19320095736120__c9f89619-ff00-4426-b725-c696f57ebcfa-168785030858304184-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 52
+      }
+    },
+    "1655739482dcdde129": {
+      "type": "rich-text",
+      "blocks": {
+        "16557394822681776c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have questions? Call our Product Support Specialists.<\/p>"
+          }
+        },
+        "01bf8ca5-5cbc-494e-9e40-e0d688e6507c": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><a href=\"tel:8883011084\">(888) 301-1084<\/a><\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "16557394822681776c-1",
+        "01bf8ca5-5cbc-494e-9e40-e0d688e6507c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "e45897b0-3bc7-4238-8a4e-1d3ad62e18d6": {
+      "type": "newsletter",
+      "blocks": {
+        "template--14647498145873__e45897b0-3bc7-4238-8a4e-1d3ad62e18d6-168288373203ad8053-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our Newsletter.",
+            "heading_size": "h1"
+          }
+        },
+        "template--14647498145873__e45897b0-3bc7-4238-8a4e-1d3ad62e18d6-168288373203ad8053-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h3>Get $20 OFF your first order and be the first to receive exclusive offers and health news!<\/h3>"
+          }
+        },
+        "template--14647498145873__e45897b0-3bc7-4238-8a4e-1d3ad62e18d6-168288373203ad8053-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--14647498145873__e45897b0-3bc7-4238-8a4e-1d3ad62e18d6-168288373203ad8053-0",
+        "template--14647498145873__e45897b0-3bc7-4238-8a4e-1d3ad62e18d6-168288373203ad8053-1",
+        "template--14647498145873__e45897b0-3bc7-4238-8a4e-1d3ad62e18d6-168288373203ad8053-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "1655803433d069ba94": {
+      "type": "rich-text",
+      "blocks": {
+        "16558034335ac54278-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>ALL PRODUCTS PROUDLY MADE IN GERMANY<\/p>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "16558034335ac54278-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16557300101a03233a",
+    "ea8dff28-f064-4d8c-be21-7d0e64a722d9",
+    "f0c418bb-b92b-4d94-939e-ba9f316e5a07",
+    "0bb6b8a6-8d0d-4694-a89b-4ecd16ad6558",
+    "bc5c45c6-7eaa-4ede-ab4a-e3c6c5479f3b",
+    "1655730491734977b1",
+    "165573063339e32c22",
+    "165573443070c1d3ef",
+    "1655734227003a9774",
+    "1655734543ba4f7eb2",
+    "1655734718fb82c85c",
+    "2373718e-b6a2-41d7-8c5a-d03785ffe339",
+    "2fc8b650-caf3-4c67-81d3-ca3e0a5b7a8a",
+    "c9f89619-ff00-4426-b725-c696f57ebcfa",
+    "1655739482dcdde129",
+    "e45897b0-3bc7-4238-8a4e-1d3ad62e18d6",
+    "1655803433d069ba94"
+  ]
+}

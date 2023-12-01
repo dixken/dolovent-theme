@@ -1,0 +1,117 @@
+.pdp-hidden {
+  display: none;
+}
+
+.pdp-hidden-permanent {
+  display: none;
+}
+
+.variants-inner-wrapper {
+  position: relative;
+  margin: 0 !important;
+  margin-top: 20px !important;
+  padding: 2.5rem !important;
+  box-shadow: 10px 10px 30px 0 rgb(184 193 208 / 75%);
+  padding-left: 2.5rem;
+  border-radius: 8px !important;
+}
+
+variant-radios {
+  margin-bottom: 0 !important;
+}
+
+variant-radios > fieldset {
+  display: flex !important;
+  max-width: 100% !important;
+  justify-content: space-between !important;
+  box-sizing: border-box !important;
+  margin-bottom: 0 !important;
+  position: relative;
+  border-radius: 8px 8px 0 0 !important;
+  border: 0 !important;
+  border-bottom: 1px solid #b8c1d05c !important;
+}
+
+variant-radios > fieldset > label {
+  margin: 0 !important;
+  border: 0 !important;
+  width: 100% !important;
+}
+
+variant-radios > fieldset > label:first-of-type {
+  border-radius: 8px 0 0 0 !important;
+}
+
+variant-radios > fieldset > label:last-of-type {
+  border-radius: 0 8px 0 0 !important;
+}
+
+.bsub-widget__plans-container {
+  margin-top: 0 !important;
+}
+
+.product-form__buttons {
+  max-width: 100% !important;
+}
+
+.pdp-bsub-widget__text {
+  padding-right: 10px !important;
+}
+
+.cb_bundles {
+  padding-top: 0 !important;
+}
+
+.cb_bundles > div > p:first-of-type {
+  margin-top: 5px !important;
+}
+
+.cb_bundles > div > div:first-of-type {
+  gap: 10px !important;
+  flex-direction: row !important;
+  align-items: stretch !important;
+  margin-bottom: 10px !important;
+}
+
+.option1 {
+  align-items: baseline !important;
+}
+
+.cb_bundles > div > div > div > div:first-of-type {
+  flex-direction: column !important;
+  gap: 20px;
+}
+
+.SaveText {
+  margin-top: 0px !important;
+}
+
+.ResultBlock {
+  margin-left: 0 !important;
+  align-items: center;
+}
+
+.Price {
+  padding-left: 0 !important;
+}
+
+.cb_bundles > div > div > div > div:first-of-type > div > div:first-of-type {
+  display: none !important;
+}
+
+.OfferText {
+  text-align: center !important;
+}
+
+.ButtonBlockButton {
+  background-color: #f28b00 !important;
+  border-radius: var(--buttons-radius);
+}
+
+.widget_title {
+  text-align: right;
+}
+
+.product {
+  margin-bottom: 50px !important;
+}
